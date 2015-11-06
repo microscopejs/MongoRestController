@@ -10,6 +10,8 @@ Dependencies
 How to use ?
 ------------
 
+		npm i mongo-rest-controller --save
+
 ** Create some model **
 
 ``` js
