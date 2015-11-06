@@ -37,7 +37,7 @@ mongoose.connection.once('open', () => console.log('mongoDB connection open'));
 ** Create controller extends MongoRestController **
 
 ``` js
-import MongoRestController from 'mongoRestController';
+import MongoRestController from 'mongo-rest-controller';
 import Article from '../models/Article';
 
 export default class ArticleController extends MongoRestController {
