@@ -1,0 +1,32 @@
+{
+  "name": "mongo-rest-controller",
+  "version": "1.0.0",
+  "description": "mongoDB (mongoose) REST controller for microscope-web",
+  "main": "src/mongoRestController",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microscopejs/MongoRestController.git"
+  },
+  "keywords": [
+    "mongodb",
+    "rest",
+    "microscopejs",
+    "web"
+  ],
+  "author": "bhtz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/microscopejs/MongoRestController/issues"
+  },
+  "homepage": "https://github.com/microscopejs/MongoRestController#readme",
+  "devDependencies": {
+    "mongoose": "^4.2.4",
+    "babel": "^5.8.12"
+  },
+  "dependencies": {
+    "microscope-web": "^0.4.1"
+  }
+}
