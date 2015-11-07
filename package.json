@@ -2,7 +2,7 @@
   "name": "mongo-rest-controller",
   "version": "0.1.0",
   "description": "mongoDB (mongoose) REST controller for microscope-web",
-  "main": "src/mongoRestController",
+  "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },

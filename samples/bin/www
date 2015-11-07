@@ -1,4 +1,4 @@
-require("babel/register");
+require("babel/register")({ stage: 1 });
 
 var Application =  require('../Application');
 var dbContext = require('../models/dbContext');
