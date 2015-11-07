@@ -27,6 +27,6 @@
     "babel": "^5.8.12"
   },
   "dependencies": {
-    "microscope-web": "^0.4.1"
+    "microscope-web": "^0.4.2"
   }
 }
